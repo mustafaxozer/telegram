@@ -13,5 +13,5 @@
     "ekonomikitaplari",
     "tavandabekleyenlot"
   ],
-  "delay_range_seconds": [5, 15]
+  "delay_range_seconds": [2, 5]
 }
