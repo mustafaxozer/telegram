@@ -2,16 +2,16 @@
   "api_id": 25585459,
   "api_hash": "01bfeb393e9ec6b0a8c4f8e400fc19ad",
   "channels": [
-    "megaphissesii",
-    "sdttrhissesi",
     "teorikeslesme1",
     "teorikeslesme2",
     "teorikeslesme3",
     "teorikeslesme4",
-    "analisthedefleri",
-    "borsaanketleri",
-    "ekonomikitaplari",
-    "tavandabekleyenlot"
+    "teorikeslesme01",
+    "teorikeslesme02",
+    "teorikeslesme03",
+    "teorikeslesme04",
+    "teorikeslesme05",
+    "teorikeslesme06"
   ],
   "delay_range_seconds": [2, 5]
 }
